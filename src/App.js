@@ -114,9 +114,9 @@ function App() {
                   ) : (
                     <div className="upload-section">
                       <div className="upload-buttons">
-                        <label htmlFor="camera-input" className="btn btn-primary">
-                          📷 Take Photo
-                        </label>
+                         {/* <label htmlFor="camera-input" className="btn btn-primary"> */}
+                          {/* 📷 Take Photo */}
+                        {/* </label> */}
                         <input
                           id="camera-input"
                           type="file"
